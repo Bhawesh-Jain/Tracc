@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Divyendu Jain/AndroidStudioProjects/Tracc/app/src/main/res/drawable/custom_bg_actionbar.xml" value="0.1905" />
+        <entry key="..\:/Users/Divyendu Jain/AndroidStudioProjects/Tracc/app/src/main/res/drawable/custom_bg_button.xml" value="0.1645" />
+        <entry key="..\:/Users/Divyendu Jain/AndroidStudioProjects/Tracc/app/src/main/res/drawable/custom_bg_report_panels.xml" value="0.185" />
+        <entry key="..\:/Users/Divyendu Jain/AndroidStudioProjects/Tracc/app/src/main/res/drawable/custom_bg_report_time_frame.xml" value="0.164" />
+        <entry key="..\:/Users/Divyendu Jain/AndroidStudioProjects/Tracc/app/src/main/res/drawable/custom_bg_toolbar_tag.xml" value="0.1905" />
+        <entry key="..\:/Users/Divyendu Jain/AndroidStudioProjects/Tracc/app/src/main/res/drawable/ic_add.xml" value="0.1905" />
+        <entry key="..\:/Users/Divyendu Jain/AndroidStudioProjects/Tracc/app/src/main/res/drawable/ic_pie_chart.xml" value="0.1905" />
+        <entry key="..\:/Users/Divyendu Jain/AndroidStudioProjects/Tracc/app/src/main/res/drawable/ic_time_outline_.xml" value="0.1905" />
+        <entry key="..\:/Users/Divyendu Jain/AndroidStudioProjects/Tracc/app/src/main/res/layout/activity_home.xml" value="0.152" />
+        <entry key="..\:/Users/Divyendu Jain/AndroidStudioProjects/Tracc/app/src/main/res/layout/activity_splash.xml" value="0.264" />
+        <entry key="..\:/Users/Divyendu Jain/AndroidStudioProjects/Tracc/app/src/main/res/layout/fragment_add_task.xml" value="0.264" />
+        <entry key="..\:/Users/Divyendu Jain/AndroidStudioProjects/Tracc/app/src/main/res/layout/fragment_report.xml" value="0.264" />
+        <entry key="..\:/Users/Divyendu Jain/AndroidStudioProjects/Tracc/app/src/main/res/layout/toolbar_layout.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
