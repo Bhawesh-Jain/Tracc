@@ -40,5 +40,4 @@ public class AddTaskFragment extends Fragment {
 
         });
     }
-
 }
